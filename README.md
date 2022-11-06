@@ -2,14 +2,20 @@
 
 <div id="header" align="center">
   <img src="https://media.tenor.com/Zt4LPMD943EAAAAC/wave-hello.gif"
-       width="220"
-       height="120" />
+       width="250"
+       height="140" />
 </div>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Website-243964?logo=react&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  <a href="">
+    <img src="https://img.shields.io/badge/Website-243964?logo=react&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/elslb/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/_elslb">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>  
 
 
 
