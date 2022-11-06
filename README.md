@@ -1,10 +1,10 @@
 <div id="header" align="center">
+  <h1>
+    Hey there!
+  </h1>
   <img src="https://media.tenor.com/Zt4LPMD943EAAAAC/wave-hello.gif"
        width="250"
        height="140" />
-  <h1>
-  Hey there!
-</h1>
 </div>
 
 <div id="badges" align="center">
