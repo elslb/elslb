@@ -2,8 +2,8 @@
 
 <div id="header" align="center">
   <img src="https://media.tenor.com/Zt4LPMD943EAAAAC/wave-hello.gif"
-       width="200"
-       height="100" />
+       width="220"
+       height="120" />
 </div>
 
 <div id="badges" align="center">
