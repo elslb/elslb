@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/Website-243964?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Website-243964?logo=react&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
 
