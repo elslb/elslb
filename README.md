@@ -48,10 +48,10 @@ Core
   <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/mysql/mysql-original-wordmark.svg"
        width=75
        height=75>
-  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/html5/html5-original-wordmark.svg"
+  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/html5/html5-plain-wordmark.svg"
        width=75
        height=75>
-  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/css3/css3-original-wordmark.svg"
+  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/css3/css3-plain-wordmark.svg"
        width=75
        height=75>
   <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/docker/docker-plain-wordmark.svg"
