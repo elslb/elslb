@@ -5,8 +5,11 @@
   <img src="https://media.tenor.com/Zt4LPMD943EAAAAC/wave-hello.gif"
        width="250"
        height="140" />
+  <br>
+   I'm Elie and I currently work as a Data Analyst/Python Developer at <a href="https://ca.talent.com/">Talent.com</a>
+  <br>
 </div>
-
+<br>
 <div id="badges" align="center">
   <a href="">
     <img src="https://img.shields.io/badge/Website-243964?logo=react&logoColor=white&style=for-the-badge"/>
