@@ -32,7 +32,7 @@ The ability to employ both logic and creativity when devising solutions, and the
 <br>
 
 ---
-* 🔭 I’m currently working on Backend Projects
+* 🔭 I’m currently working on Backend Projects and a spending/budgeting python app
 
 ---
 <div id="My Stack" align="center">
