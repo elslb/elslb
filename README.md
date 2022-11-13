@@ -26,7 +26,7 @@
 I am an eager and quick learning data scientist and developer with a background in Biochemistry and Neuroscience.
 <br>
 <br>
-I spent some time scripting for video games when I was younger and as I grew older, I found that I was drawn ever closer to the powerful problem-solving capabilities that writing code enabled me to wield.
+I spent some time scripting for video games when I was younger. As I grew older, I found myself consistently being drawn to the powerful problem-solving capabilities that writing code enabled me to wield.
 <br>
 The ability to employ both logic and creativity when devising solutions, and the virtually endless avenues for improvement and innovation make this field an infinite source of interest and amazement that keeps me hungry to learn!
 <br>
