@@ -6,7 +6,7 @@
        width="250"
        height="140" />
   <br>
-   I'm Elie and I currently work as a Data Analyst/Python Developer at <a href="https://ca.talent.com/">Talent.com</a>
+   I'm Elie and I currently work as a Data Analyst/Python Developer (Backend) at <a href="https://ca.talent.com/">Talent.com</a>
   <br>
 </div>
 <br>
