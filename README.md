@@ -23,7 +23,7 @@
 </div>
 <br>
 
-I am an eager and quick learning data scientist and developer with a background in Biochemistry and Neuroscience.
+I am an eager and quick learning data scientist and software developer with a background in Biochemistry and Neuroscience.
 <br>
 <br>
 I spent some time scripting for video games when I was younger. As I grew older, I found myself consistently being drawn to the powerful problem-solving capabilities that writing code enabled me to wield.
