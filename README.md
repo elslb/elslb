@@ -75,4 +75,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - To-Do: Add more to the top list later
 - To-Do: Add more icons into the skills tier
+- Update Resume to Backend Dev
 -->
