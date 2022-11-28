@@ -76,4 +76,5 @@ Here are some ideas to get you started:
 - To-Do: Add more to the top list later
 - To-Do: Add more icons into the skills tier
 - Update Resume to Backend Dev
+- Add JAVA projects and check on C# project from my unity game build
 -->
