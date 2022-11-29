@@ -34,7 +34,58 @@ The ability to employ both logic and creativity when devising solutions, and the
 ---
 * 🔭 I’m currently working on Backend Projects and a spending/budgeting python app
 * 🌱 I’m currently learning about Networking for Effective Backend Design
+* 
+---
+<div id="Project Overview" align="center">
+  <h2>
+    Project Overview
+  </h2>
+  <table bordercolor="#66B2">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">
+          Ocean Zen
+        </h3>
+        <p>
+          <a href="https://github.com/elslb/fish_zen">
+            <img src="https://github.com/elslb/fish_zen/blob/main/fish_zen_12fps.gif?raw=true">
+          </a>
+        </p>
+        <p><b> Java and Processing</b> – A smoothly flowing animation done using maths and OOP principles in Java.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+<!--
+    <td width="50%" valign="top">
+      <h3>Java Flappy Mini-Game</h3>
+  <p>
+  <a href="">
+    <img src="">
+  </a>  
+      </p>
+      <p><b>Placeholder</b></p>
+    </td>
+  </tr>
+  
+  <tr>
+<td width="50%" valign="top">
+      <h3>Project Platemate</h3>
+  <p>
+  <a href="">
+    <img src="">
+  </a>  
+      </p>
+        <p><b>Placeholder</b></p>
+    </td>
+    
+  </tr>
+</table>
+</section>
 
+<br>
+-->
+    
 ---
 <div id="My Stack" align="center">
   <h2>
