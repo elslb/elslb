@@ -51,7 +51,7 @@ The ability to employ both logic and creativity when devising solutions, and the
             <img src="https://github.com/elslb/fish_zen/blob/main/fish_zen_12fps.gif?raw=true">
           </a>
         </p>
-        <p><b> Java and Processing</b> – A smoothly flowing animation done using maths and OOP principles in Java.</p>
+        <p><b> Java and Processing</b> – A smoothly flowing animation done using mathematics in Java.</p>
       </td>
     </tr>
   </table>
