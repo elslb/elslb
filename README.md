@@ -53,21 +53,21 @@ The ability to employ both logic and creativity when devising solutions, and the
         </p>
         <p><b> Java and Processing</b> – A smoothly flowing animation done using mathematics in Java.</p>
       </td>
+      <td width="50%" valign="top">
+        <h3 align="center">
+          Java Nibbles Mini-Game
+        </h3>
+        <p>
+          <a href="https://github.com/elslb/nibbles_minigame">
+            <img src="https://github.com/elslb/nibbles_minigame/blob/main/nibbles_game.gif?raw=true">
+          </a>
+        </p>
+        <p><b>Interactive mini-game with score keeping made using OOP in Java</b></p>
+    </td>
     </tr>
   </table>
 </div>
 <!--
-    <td width="50%" valign="top">
-      <h3>Java Flappy Mini-Game</h3>
-  <p>
-  <a href="">
-    <img src="">
-  </a>  
-      </p>
-      <p><b>Placeholder</b></p>
-    </td>
-  </tr>
-  
   <tr>
 <td width="50%" valign="top">
       <h3>Project Platemate</h3>
