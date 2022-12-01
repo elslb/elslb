@@ -34,7 +34,6 @@ The ability to employ both logic and creativity when devising solutions, and the
 ---
 * 🔭 I’m currently working on Backend Projects and a spending/budgeting python app
 * 🌱 I’m currently learning about Networking for Effective Backend Design
-* 
 ---
 <div id="Project Overview" align="center">
   <h2>
@@ -87,13 +86,15 @@ The ability to employ both logic and creativity when devising solutions, and the
 -->
     
 ---
-<div id="My Stack" align="center">
+<div id="Technical Skills" align="center">
   <h2>
-    My Stack
+    Technical Skills
   </h2>
 </div>
-Core
-<div id="Stack Icons">
+<h3>
+  Core
+</h3>
+<div id="Core Stack Icons">
   <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/python/python-original-wordmark.svg"
        width=75
        height=75>
@@ -110,7 +111,14 @@ Core
        width=75
        height=75>
 </div>
-
+<h3>
+  Exposed To
+</h3>
+<div id="Exposed Stack Icons">
+  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/java/java-plain-wordmark.svg"
+       width=75
+       height=75>
+</div>
 <!--
 **elslb/elslb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
