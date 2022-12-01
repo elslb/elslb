@@ -98,7 +98,25 @@ The ability to employ both logic and creativity when devising solutions, and the
   <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/python/python-original-wordmark.svg"
        width=75
        height=75>
+  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+       width=75
+       height=75>
+  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/git/git-plain-wordmark.svg"
+       width=75
+       height=75>
+  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/github/github-original-wordmark.svg"
+       width=75
+       height=75>
   <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+       width=75
+       height=75>
+  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg"
+       width=75
+       height=75>
+  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/django/django-plain-wordmark.svg"
+       width=75
+       height=75>
+  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/flask/flask-original-wordmark.svg"
        width=75
        height=75>
   <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/html5/html5-plain-wordmark.svg"
@@ -116,6 +134,15 @@ The ability to employ both logic and creativity when devising solutions, and the
 </h3>
 <div id="Exposed Stack Icons">
   <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/java/java-plain-wordmark.svg"
+       width=75
+       height=75>
+  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg"
+       width=75
+       height=75>
+  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/csharp/csharp-original.svg"
+       width=75
+       height=75>
+  <img src="https://raw.githubusercontent.com/elslb/devicon/master/icons/javascript/javascript-original.svg"
        width=75
        height=75>
 </div>
