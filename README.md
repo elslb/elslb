@@ -163,4 +163,5 @@ Here are some ideas to get you started:
 - To-Do: Add more icons into the skills tier
 - Update Resume to Backend Dev
 - Change GIFS to WEBM for optimized load time
+- Change badges to shields for better readability
 -->
