@@ -164,4 +164,5 @@ Here are some ideas to get you started:
 - Update Resume to Backend Dev
 - Change GIFS to WEBM for optimized load time
 - Change badges to shields for better readability
+- Change all skills into shields, no more badges at all for better readability
 -->
